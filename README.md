@@ -17,7 +17,7 @@ The output voltage of receiver was around 5 V and ADC value was 1023 at -30 degr
 ### Part 2: Manufacturing a physcial PCB for transmitter
 Besides, the project was to design a PCB for transmitter including its power supply in order to read the analog signal of temperature. PCB was designed on PADS LOGIC for schematic and on PADS LAYOUT for layout. The completed PCB for transmitter is shown as below:
 
-![testingresultswitharduino](https://github.com/Yendang1206/Measuring-Temperature-with-the-LM35-sensor/assets/86560239/54ae7878-498c-4a41-b7ba-e45057ae20f0)
+![pcbtransmitter](https://github.com/Yendang1206/Measuring-Temperature-with-the-LM35-sensor/assets/86560239/d930274f-98a5-4c67-9f3e-b358a60883f4)
 
 ## REQUIREMENTS
 - Electronic components and breadboards
