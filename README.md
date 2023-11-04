@@ -10,7 +10,7 @@ The project's system was designed by connecting the LM35 sensor with the analog 
 
 ![image](https://github.com/Yendang1206/Measuring-Temperature-with-the-LM35-sensor/assets/86560239/454f2534-03bd-4119-a4b7-f03401f7105b)
 
-Here is the testing results of the system's circuit with Arduino at -30 degree celsius:
+Here is the testing results of the system's circuit with Arduino at -30 degree celsius. The output voltage of receiver was around 5 V and ADC value was 1023
 
 ![image](https://github.com/Yendang1206/Measuring-Temperature-with-the-LM35-sensor/assets/86560239/a7aa4ad0-e8d4-4e2a-b141-bf4924f8f53d)
 
