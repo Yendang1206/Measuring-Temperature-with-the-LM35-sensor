@@ -14,14 +14,14 @@ Here is the testing results of the system's circuit with Arduino at -30 degree c
 
 ![image](https://github.com/Yendang1206/Measuring-Temperature-with-the-LM35-sensor/assets/86560239/a7aa4ad0-e8d4-4e2a-b141-bf4924f8f53d)
 
-### Part 2: Manufacturing a physcial Printed Circuit Board (PCB) for transmitter
-Besides, the project was to design a physcial Printed Circuit Board (PCB) for transmitter including its power supply in order to read the analog signal of temperature. PCB was designed on PADS LOGIC for schematic and on PADS LAYOUT for layout. The completed PCB for transmitter is shown as below:
+### Part 2: Manufacturing a physcial PCB for transmitter
+Besides, the project was to design a PCB for transmitter including its power supply in order to read the analog signal of temperature. PCB was designed on PADS LOGIC for schematic and on PADS LAYOUT for layout. The completed PCB for transmitter is shown as below:
 
 ![image](https://github.com/Yendang1206/Measuring-Temperature-with-the-LM35-sensor/assets/86560239/622c72a4-06c7-4e2c-bc3d-ed40097002c3)
 
 ## REQUIREMENTS
-- LTspice
 - Electronic components and breadboards
+- LTspice
 - Arduino
 - Multimeters
 - PADS LOGIC/LAYOUT
